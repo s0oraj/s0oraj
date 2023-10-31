@@ -1,4 +1,4 @@
-# Hi there, I'm Suraj Singh 👋 ![Profile views]([https://img.shields.io/github/followers/s0oraj?label=Profile%20views&style=social](https://komarev.com/ghpvc/?username=s0oraj))
+# Hi there, I'm Suraj Singh 👋 ![](https://komarev.com/ghpvc/?username=s0oraj)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=BTech+CSE-Student+%7C+ML+%26++Android+Dev;IIT+DELHI%3A+IEEE+ICCCNT+2023+Conf;Amazon+ML+Challenge%3A+228+Global+Rank;AI+Researcher%3A+DDoS%2C+Glaucoma+Etc)](https://git.io/typing-svg)
