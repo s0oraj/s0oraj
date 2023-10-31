@@ -1,4 +1,4 @@
-# Hi there, I'm Suraj Singh 👋 ![Profile views](https://profile-counter.glitch.me/yourusername/count.svg)
+# Hi there, I'm Suraj Singh 👋 [![](https://visitcount.itsvg.in/api?id=anshika1718&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=BTech+CSE-Student+%7C+ML+%26++Android+Dev;IIT+DELHI%3A+IEEE+ICCCNT+2023+Conf;Amazon+ML+Challenge%3A+228+Global+Rank;AI+Researcher%3A+DDoS%2C+Glaucoma+Etc)](https://git.io/typing-svg)
