@@ -25,6 +25,7 @@
 |:-------------------------:|:-------------------------:|
 | <img src="https://user-images.githubusercontent.com/42529024/202877049-ac02656d-5ae2-46b8-9442-77fda36c5393.png" height="200"><br> Recommends music based on your emotions.<br> Image sentiment analysis and machine learning for personalized suggestions. <br> Features seamless music playback with the Jc Player library. | <img src="https://github.com/s0oraj/s0oraj/assets/42529024/9a5f8f81-2586-430a-928f-f6d2023ee56f" height="200"> <br>Stay updated on ScienceGlass blog posts <br> with efficient data retrieval and content exploration,<br> using Volley and Picasso libraries for seamless delivery.
 
+![Untitled design (1)](https://github.com/s0oraj/s0oraj/assets/42529024/3366de40-6387-4a4f-9639-de6ed6bdc48b)
 
 ## Technical Skills
 - 💻 Languages: Python, Java, C, HTML/CSS, JavaScript, SQL
