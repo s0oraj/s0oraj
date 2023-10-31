@@ -1,5 +1,4 @@
 # Hi there, I'm Suraj Singh 👋
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=BTech+CSE-Student+%7C+ML+%26++Android+Dev;IIT+DELHI%3A+IEEE+ICCCNT+2023+Conf;Amazon+ML+Challenge%3A+228+Global+Rank;AI+Researcher%3A+DDoS%2C+Glaucoma+Etc)](https://git.io/typing-svg)
 
 📄 [View my Resume](https://drive.google.com/file/d/1u28HdWNyTgMwzNrqh5uo5cdDjd4x7Oi_/view?usp=sharing)
@@ -25,7 +24,6 @@
 |:-------------------------:|:-------------------------:|
 | <img src="https://user-images.githubusercontent.com/42529024/202877049-ac02656d-5ae2-46b8-9442-77fda36c5393.png" height="200"><br> Recommends music based on your emotions.<br> Image sentiment analysis and machine learning for personalized suggestions. <br> Features seamless music playback with the Jc Player library. | <img src="https://github.com/s0oraj/s0oraj/assets/42529024/3366de40-6387-4a4f-9639-de6ed6bdc48b" height="200"> <br>Stay updated on ScienceGlass blog posts <br> with efficient data retrieval and content exploration,<br> using Volley and Picasso libraries for seamless delivery.
 
-![Untitled design (1)](https://github.com/s0oraj/s0oraj/assets/42529024/3366de40-6387-4a4f-9639-de6ed6bdc48b)
 
 ## Technical Skills
 - 💻 Languages: Python, Java, C, HTML/CSS, JavaScript, SQL
