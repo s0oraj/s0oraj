@@ -1,4 +1,5 @@
 # Hi there, I'm Suraj Singh 👋
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=BTech+CSE-Student+%7C+ML+%26++Android+Dev;IIT+DELHI%3A+IEEE+ICCCNT+2023+Conf;Amazon+ML+Challenge%3A+228+Global+Rank;AI+Researcher%3A+DDoS%2C+Glaucoma+Etc)](https://git.io/typing-svg)
 
 📄 [View my Resume](https://drive.google.com/file/d/1u28HdWNyTgMwzNrqh5uo5cdDjd4x7Oi_/view?usp=sharing)
